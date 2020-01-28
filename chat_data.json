@@ -1,0 +1,82 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!, I'm geeko", "Good to see you!\nI'm geeko", "Hi there, how can I help?\nI'm geeko", "Looks like someone needs my help :p\nI'm geeko", "yup, Hello I'm here...\nI'm geeko", "Hello!, there...\nI'm geeko"],
+      "context_set": ""
+    },
+    {
+      "tag": "planning and analytics",
+      "patterns": ["Tell me, about your plan!", "What is your plan", "Future plan", "Seems like having a plan??", "plan for improvement", "Analytics you follow", "Company Analytics?"],
+      "responses": ["We the Geeks intakes the present development and reach of your organization in order to construct the flow of your processes and needy", "Nothing goes on like a current technology!! We geeks are ready to make it with the current techs in the field to construct the flow of your processes and needy"],
+      "context_set": ""
+    },
+    {
+      "tag": "approach",
+      "patterns": ["Your approach", "What is your approach?", "Tell me about your approach", "you guys might have an approach", "Good to have a approach"],
+      "responses": ["The business and projects evolve in an around the technology with unique abilities, this helps us manipulating the strategies to technically planning and analysing, and even implementing UI maintenance in phases ", "The Technology evolves with unique abilities for each business and project, We move on through that strategies to plan and analyse and even implementing.", "We have an most technical approach to satisfy the needy. We use those evolved techs to manipulate the technically planning and analysing even implementing"],
+      "context_set": ""
+    },
+    {
+      "tag": "implementation and optimal UI",
+      "patterns": ["Tell me about your implementation!", "What kind of implementation?", "Tell me about optimal UI of yours?", "Your work on optimal UI"],
+      "responses": ["We explore our intensions in order to accelerate the intimal of successful strategies and solutions to be implemented with optimal UI assuring without black dots and minimal disruption to spontaneous business operation."],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "what's up"],
+      "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?", "Looks like someone needs my help :p", "yup, Hello I'm here", "Hello!, there"],
+      "context_set": ""
+    }
+  ]
+}
